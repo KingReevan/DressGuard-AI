@@ -1,0 +1,1 @@
+This repository contains code for DressGuard AI which is a clothing-detection AI that can be used for various applications. It is primarily designed for educational institutions and businesses to ensure uniform compliance.
